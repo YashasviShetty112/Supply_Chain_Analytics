@@ -23,7 +23,7 @@ which enables us to find the ones with highest delays in shipment region wise.
 5 Query_5:Best selling products in each department using window function and rank.
 6 Query_6:calculated monthly revenue and cumulative running total of revenue.
 
-## Power Bi (Supply Chain Dashboard)
+## Power Bi (Supply_Chain_Dashboard.pbix)
 Total revenue,Total profit, profit percentage margin,late risk rate were displayed using KPI cards.
 Department wise sales column chart and pie chart for the class types accounting for total revenue.
 Regional logistics matrix table tracking late delivery risks.
